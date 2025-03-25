@@ -21,4 +21,4 @@ This Power BI dashboard provides insights into **GlobalMart's sales performance*
 🔗 **Connect with Me**  
 - [Twitter](https://x.com/Staffpaul28)   
 - [LinkedIn](https://www.linkedin.com/in/brian-kimanzi-09a18b1ab/)
--    
+- [GitHub](https://github.com/BKimanzi)   
